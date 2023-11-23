@@ -1,0 +1,9 @@
+.all{
+    display: flex;
+}
+.face{
+    color: blue;
+}
+.ita{
+    text-align: justify;
+}
